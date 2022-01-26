@@ -782,3 +782,19 @@
   .clear{
     clear: both;
   }
+
+  .room{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 365px;
+    height: 80px;
+  }
+
+  .room-son{
+    position: relative;
+    text-decoration: none;
+    color: wheat;
+    font-weight: bold;
+  }
